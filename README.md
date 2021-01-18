@@ -34,5 +34,5 @@
 ### My Open Source Projects
 
 <a href="https://Lubrum.github.io/">
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=Lubrum&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=merko" /><!-- wi*quL3fcV -->
-<img width="500px" height="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lubrum&hide_border=true&langs_count=15&theme=merko" /></a>
+<img height="220" src="https://github-readme-stats.vercel.app/api?username=Lubrum&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=merko" /><!-- wi*quL3fcV -->
+<img width="800px" height="600px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lubrum&hide_border=true&langs_count=15&theme=merko" /></a>
