@@ -15,7 +15,7 @@
 [![SASS](https://img.shields.io/badge/-SASS-000?&logo=SASS&logoColor=ddc508)](https://github.com/Lubrum?tab=repositories&q=&type=&language=sass)
 [![C](https://img.shields.io/badge/-C-000?&logo=C)](https://github.com/Lubrum?tab=repositories&q=&type=&language=c)
 [![R](https://img.shields.io/badge/-R-000?&logo=R&logoColor=336791)](https://github.com/Lubrum?tab=repositories&q=&type=&language=r)
-[![Python](https://img.shields.io/badge/-pPython-000?&logo=python)](https://github.com/Lubrum?tab=repositories&q=&type=&language=python)
+[![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/Lubrum?tab=repositories&q=&type=&language=python)
 
 ### Technologies
 
