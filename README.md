@@ -30,6 +30,94 @@
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![Realm](https://img.shields.io/badge/-Realm-000?&logo=Realm&logoColor=9003fc)
 
+# Luciano Brum
+
+Computer Engineer | MSc in Applied Computing  
+Java Specialist | Legacy Modernization | Backend & Cloud
+
+---
+
+## 👨‍💻 About Me
+
+I am a Computer Engineer with a Master's degree in Applied Computing, focused on the evolution, maintenance, and modernization of software products.
+
+My work centers on building robust backend systems, improving legacy architectures, and delivering scalable solutions using Java and cloud technologies.
+
+I operate both as a technical specialist and as a service provider through my company, delivering high-quality solutions in software engineering and data processing.
+
+---
+
+## 🚀 Core Expertise
+
+### Backend Development (Primary Focus)
+
+- Java (8, 11, 17)
+- Spring Boot
+- Hibernate / JPA
+- Maven & Gradle
+- Tomcat, JBoss, Jetty
+- JSF & PrimeFaces
+- JasperReports
+- Apache POI
+- OkHttp
+- log4j / log4j2
+
+Focus areas:
+- REST API design
+- Legacy system maintenance & refactoring
+- Performance tuning
+- Integration between systems
+
+---
+
+### ☁ DevOps & Infrastructure
+
+- Docker & LXC
+- CI/CD (GitLab & GitLab Runner)
+- Nginx & HAProxy
+- AWS (EC2, S3, RDS, Route53)
+- IBM (COS)
+
+---
+
+### 📱 Mobile Development
+
+- Android (Java)
+
+Experience developing and maintaining Android applications integrated with backend systems.
+
+---
+
+## 🧠 Current Focus
+
+- Modernizing legacy Java systems
+- Building scalable backend architectures
+- Creating high-quality technical educational content
+- Long-term maintainable software solutions
+
+---
+
+## 🌐 Links
+
+Website: https://lubrum.github.io  
+GitHub: https://github.com/Lubrum  
+ResearchGate: https://researchgate.net/profile/Luciano_Brum2  
+Academic Profile: https://unipampa.academia.edu/LBrum  
+YouTube Channel: https://youtube.com/channel/UCAX8r-2riNaYslvOQjgM5PQ  
+
+---
+
+## 🤝 Let’s Work Together
+
+If you're looking for:
+
+- Java backend development
+- Legacy system modernization
+- System maintenance & evolution
+- Data analysis and reporting solutions
+
+Feel free to reach out and schedule a conversation.
+
 ### My Open Source Projects
 
 <a href="https://Lubrum.github.io/">
