@@ -121,5 +121,19 @@ Feel free to reach out and schedule a conversation.
 ### My Open Source Projects
 
 <a href="https://Lubrum.github.io/">
-<img height="220" src="https://github-readme-stats.vercel.app/api?username=Lubrum&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=merko" /><!-- wi*quL3fcV -->
-<img width="800px" height="600px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lubrum&hide_border=true&langs_count=15&theme=merko" /></a>
+
+![teste](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lubrum&theme=aura_dark)  
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lubrum&theme=aura_dark" width="49%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lubrum&theme=aura_dark" width="49%" />
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lubrum&theme=aura_dark" width="49%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lubrum&theme=aura_dark&utcOffset=8" width="49%" />
+</p>
+
+<!--
+<img height="220" src="https://github-readme-stats.vercel.app/api?username=Lubrum&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=merko" /><!-- wi*quL3fcV 
+<img width="800px" height="600px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lubrum&hide_border=true&langs_count=15&theme=merko" /></a>-->
